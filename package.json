@@ -1,0 +1,27 @@
+{
+  "name": "mrlogo-ai-ai-svg-creator",
+  "version": "1.0.0",
+  "description": "AI SVG Creator generates scalable vector graphics and icons with AI for logos, websites, and apps",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-svg",
+    "svg-creator",
+    "svg-generator",
+    "ai",
+    "vector-graphics",
+    "icon",
+    "design",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "MrLogo",
+  "license": "ISC",
+  "homepage": "https://mrlogo.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlogo-ai/ai-svg-creator.git"
+  }
+}
